@@ -39,9 +39,7 @@
         <div align="center">
           
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2055%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,7 +47,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 208 Contributions in the Year 2026
+> 🏆 207 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,40 +82,22 @@ Sunday                   7 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Lua                      23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             ███████████████████████░░   91.41 % 
-Copilot CLI              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hypr                     14 mins             ████████████████░░░░░░░░░   62.21 % 
-hyprland                 8 mins              █████████░░░░░░░░░░░░░░░░   37.79 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (60.59%)
-
-✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
-
-🔤 7,035 Input Tokens, 414 Output Tokens
-
-💵 $0.03 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 5 AI Prompts
-
-Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 45 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -137,7 +117,7 @@ C                        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonIsGone/DragonIsGone/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 00:36:10 UTC
+ Last Updated on 01/11/2026 02:45:27 UTC
 <!--END_SECTION:waka-->
 
   </div></td></tr>
