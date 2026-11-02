@@ -8,7 +8,7 @@
       </td>
       <td>
        <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=DragonIsGone&show_icons=true&theme=transparent&text_color=b7b7b8&icon_color=dd6387&title_color=dd6387&hide_border=true&rank_icon=percentile"
+          src="https://github-readme-stats-fast.vercel.app/api?username=TatureTheFox&show_icons=true&theme=transparent&text_color=b7b7b8&icon_color=dd6387&title_color=dd6387&hide_border=true&rank_icon=percentile"
           alt="Stats"
         />
       </td>
@@ -18,15 +18,15 @@
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/DragonIsGone/DragonIsGone/output/github-contribution-grid-snake-dark.svg"
+            srcset="https://raw.githubusercontent.com/TatureTheFox/TatureTheFox/output/github-contribution-grid-snake-dark.svg"
           >
           <source 
             media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/DragonIsGone/DragonIsGone/output/github-contribution-grid-snake.svg"
+            srcset="https://raw.githubusercontent.com/TatureTheFox/TatureTheFox/output/github-contribution-grid-snake.svg"
           >
           <img 
             alt="github contribution grid snake animation" 
-            src="https://raw.githubusercontent.com/DragonIsGone/DragonIsGone/output/github-contribution-grid-snake.svg"
+            src="https://raw.githubusercontent.com/TatureTheFox/TatureTheFox/output/github-contribution-grid-snake.svg"
             style="background-color: transparent !important;" 
           >
   </picture>
