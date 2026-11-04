@@ -39,6 +39,8 @@
         <div align="center">
           
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -46,10 +48,10 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Rust</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">16 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#EDABBF"/><rect x="280" y="6" width="236" height="8" rx="4" fill="#dd6387"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">65.55%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Lua</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">8 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#EDABBF"/><rect x="280" y="30" width="124" height="8" rx="4" fill="#dd6387"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">34.45%</text></svg>
+<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Rust</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">16 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="236" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">65.55%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Lua</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">8 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="124" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">34.45%</text></svg>
 
 💻 Operating System: 
-<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Linux</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">25 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#EDABBF"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#dd6387"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Linux</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">25 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
 
 
 🤖 **AI Coding This Week** 
@@ -59,7 +61,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/11/2026 04:03:34 UTC
+ Last Updated on 04/11/2026 04:09:51 UTC
 <!--END_SECTION:waka-->
 
   </div></td></tr>
