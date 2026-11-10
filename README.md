@@ -49,12 +49,12 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Rust                     49 mins             ██████████████████████░░░   86.87 % 
-Lua                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-KDL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Rust                     36 mins             █████████████████████░░░░   83.04 % 
+Lua                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+KDL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Linux                    57 mins             █████████████████████████   100.00 % 
+Linux                    44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -64,7 +64,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 09/11/2026 03:09:51 UTC
+ Last Updated on 10/11/2026 04:52:17 UTC
 <!--END_SECTION:waka-->
 
   </div></td></tr>
