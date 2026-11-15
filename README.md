@@ -49,10 +49,13 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      1 hr 48 mins        █████████████████░░░░░░░░   69.46 % 
+QML                      35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -62,7 +65,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/11/2026 03:42:30 UTC
+ Last Updated on 15/11/2026 03:19:04 UTC
 <!--END_SECTION:waka-->
 
   </div></td></tr>
