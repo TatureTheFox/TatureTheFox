@@ -49,13 +49,13 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Lua                      1 hr 49 mins        █████████████████░░░░░░░░   69.67 % 
-QML                      35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Lua                      2 hrs 7 mins        ██████████████████░░░░░░░   72.71 % 
+QML                      35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Linux                    2 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -65,7 +65,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/11/2026 04:30:39 UTC
+ Last Updated on 21/11/2026 04:24:59 UTC
 <!--END_SECTION:waka-->
 
   </div></td></tr>
