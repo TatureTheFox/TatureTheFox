@@ -39,7 +39,7 @@
         <div align="center">
           
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,13 +49,10 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Lua                      2 hrs 7 mins        ██████████████████░░░░░░░   72.71 % 
-QML                      35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Lua                      18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -65,7 +62,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 21/11/2026 04:24:59 UTC
+ Last Updated on 22/11/2026 03:39:02 UTC
 <!--END_SECTION:waka-->
 
   </div></td></tr>
