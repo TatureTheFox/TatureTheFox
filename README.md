@@ -39,7 +39,7 @@
         <div align="center">
           
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,11 +49,10 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Rust                     36 mins             █████████████████░░░░░░░░   67.27 % 
-Lua                      17 mins             ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Rust                     36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    53 mins             █████████████████████████   100.00 % 
+Linux                    36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +62,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/11/2026 05:30:30 UTC
+ Last Updated on 28/11/2026 05:06:25 UTC
 <!--END_SECTION:waka-->
 
   </div></td></tr>
